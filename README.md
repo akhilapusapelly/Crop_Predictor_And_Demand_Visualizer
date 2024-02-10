@@ -28,4 +28,5 @@ The output is:
 
 The visualizer which shows the demanding crops:
 
-![Screenshot 2024-02-10 134652](https://github.com/akhilapusapelly/Crop_Predictor_And_Demand_Visualizer/assets/86558975/8663eeee-8ef9-43d1-aa20-7d3bbd01c18c)
+![Screenshot 2024-02-10 140221](https://github.com/akhilapusapelly/Crop_Predictor_And_Demand_Visualizer/assets/86558975/6b201b1e-c267-4a3f-a861-16262dd1b8fe)
+
